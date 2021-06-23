@@ -7,6 +7,7 @@ public class Car {
     private String colour;
     private int doors;
     private String model;
+    private String engine;
 
     public String getModel(){
         return this.model;
