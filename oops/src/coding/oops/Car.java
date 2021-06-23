@@ -8,6 +8,7 @@ public class Car {
     private int doors;
     private String model;
     private String engine;
+    private String name;
 
     public String getModel(){
         return this.model;
