@@ -2,6 +2,7 @@ package coding.oops;
 
 public class Car {
     private int modelYear;
+    private int modelMonth;
     private String colour;
     private int doors;
     private String model;
